@@ -13,6 +13,3 @@ describe "say_hello" do
   end
 end
 
-def say_hello 
-  puts ("Hello Kent Beck!")
-end
